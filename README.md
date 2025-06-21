@@ -1,4 +1,12 @@
-## Hi there 👋
+Aspiring CS/DS student with a couple projects that hopefully do me well.
+
+He/him
+
+Currently working on Mood tracking mobile app.
+
+Drafting ideas for scraping, EDA, and Firebase projects.
+
+atile4444@gmail.com
 
 <!--
 **atile4/atile4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
