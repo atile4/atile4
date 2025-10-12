@@ -1,8 +1,8 @@
-Aspiring CS/DS student with a couple projects that hopefully do me well.
+Aspiring CS/DS student with a couple projects.
 
 He/him
 
-Currently working on Mood tracking mobile app.
+Currently working on UCI Major Comparison Web App and anything databases.
 
 Drafting ideas for scraping, EDA, and Firebase projects.
 
