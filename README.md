@@ -1,10 +1,10 @@
-Aspiring CS/DS student with a couple projects.
+Aspiring CS/ACM student with a couple projects.
 
 He/him
 
-Currently working on Todo App and learning React FIrebase.
+Currently working on AntAlmanac Planner and learning React & AWS.
 
-Drafting ideas for scraping, EDA, and Firebase projects.
+Drafting ideas for scraping, EDA, and AWS projects.
 
 atile4444@gmail.com
 
