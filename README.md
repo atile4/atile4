@@ -1,10 +1,10 @@
-Aspiring CS/ACM student with a couple projects.
+Aspiring CS student with a couple projects.
 
 He/him
 
 Currently working on [AntAlmanac Planner](https://github.com/icssc/peterportal-client) and learning React & AWS.
 
-Drafting ideas for scraping, EDA, and AWS projects.
+Drafting ideas for full-stack and AWS projects.
 
 atile4444@gmail.com
 
