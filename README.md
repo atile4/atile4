@@ -43,10 +43,6 @@ Software Engineer / Backend Engineer focused on building full-stack applications
 - Architected a serverless AWS Lambda backend that retrieves real-time weather data and integrates the NVIDIA NIM API to generate cost-effective recommendations for homeowners running high-energy appliances
 - Built and integrated the AWS backend in 36 hours using Step Functions, DynamoDB, and SES to orchestrate multi-step AI workflows, persist user data, and deliver automated email recommendations
 
----
-
-### GitHub Stats
-
 <!-- <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=atile4&show_icons=true&theme=default" alt="atile4's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atile4&layout=compact&theme=default" alt="Top Languages" />
