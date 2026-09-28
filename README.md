@@ -52,10 +52,6 @@ Software Engineer / Backend Engineer focused on building full-stack applications
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atile4&layout=compact&theme=default" alt="Top Languages" />
 </p> -->
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atile4&theme=default" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### Contact
